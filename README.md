@@ -11,8 +11,6 @@ A cutting-edge Progressive Web Application (PWA) that delivers real-time market 
 
 [Report Bug](https://github.com/IdoAizenshtein/progressive-web-app-market-leaderboard/issues) | [Request Feature](https://github.com/IdoAizenshtein/progressive-web-app-market-leaderboard/issues)
 
-![App Screenshot](screenshot-url.png)
-
 ## ✨ Key Features
 
 - **⚡ Lightning-Fast Performance**: Optimized for speed on all devices
@@ -33,6 +31,7 @@ A cutting-edge Progressive Web Application (PWA) that delivers real-time market 
 - ![Web App Manifest](https://img.shields.io/badge/-Web_App_Manifest-4285F4?style=flat) Native app installation support
 
 ## 📂 Project Structure
+
 ├── css/
 │   └── styles.css            # Main stylesheet
 ├── icons/                    # App icons for various platforms
