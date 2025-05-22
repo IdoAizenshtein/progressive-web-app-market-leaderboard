@@ -131,9 +131,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Ido Aizenshtein -  IdoAizenshtein@gmail.com
 
-Project Link: [https://github.com/yourusername/progressive-web-app-market-leaderboard](https://github.com/IdoAizenshtein/progressive-web-app-market-leaderboard)
+Project Link: [https://github.com/IdoAizenshtein/progressive-web-app-market-leaderboard](https://github.com/IdoAizenshtein/progressive-web-app-market-leaderboard)
 
 ## 🙏 Acknowledgements
 
